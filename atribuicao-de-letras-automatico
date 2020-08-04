@@ -1,0 +1,9 @@
+Abra o Prompt de Comando como administrador (CMD)
+
+diskpart
+automount enable
+automount scrub
+exit
+exit
+
+Pronto isso ira resolver seu problema.
